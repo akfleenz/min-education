@@ -1,25 +1,18 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "http://education.govt.nz/data.json",
+      "@id": "http://www.education.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "identifier": "MOE-LS-001",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of students involved with the Ongoing Resourcing Scheme (ORS) as at 1 July",
-        "description": "ORS provides support for a very small number of students, with the highest level of need for special education, to help them join in and learn alongside other children at school. Students are funded under either a Very High or a High needs level, and in 2010 a third extension category was created to include an additional 400 students with moderate-to-high special needs, who were older than nine and had missed out on the ORS by a narrow margin in the past.",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
+        "description": "ORS provides support for a very small number of students, with the highest level of need for special education, to help them join in and learn alongside other children at school. Students are funded under either a Very High or a High needs level, and in 2010 a third ‘extension’ category was created to include an additional 400 students with moderate-to-high special needs, who were older than nine and had missed out on the ORS by a narrow margin in the past.",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "college education gender high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -78,21 +71,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-001",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Gender as at 1 July 2005-2019",
         "description": "Number of ORS Students by gender",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "college education gender high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -111,21 +97,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-002",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Age as at 1 July 2005-2019",
         "description": "Number of ORS Students by age 5 to age 21",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "age college education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -144,21 +123,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-003",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Ethnic Group and Ethnicity as at 1 July 2005-2019",
         "description": "Number of ORS Students broken into the following groups: European/Pakeha, Maori, Pasifika, Asian, Other, Unknown.",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "ethnicity college education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -177,21 +149,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-004",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Regional Council as at 1 July 2005-2019",
         "description": "Number of ORS Students broken down by region and year",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "ethnicity college education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -210,21 +175,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-005",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Territorial Authority as at 1 July 2005-2019",
         "description": "Number of ORS Students broken down by territorial authority and year",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "territorial authority college education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -243,21 +201,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-006",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Decile, Ethnic Group and Funding Type 2005-2019",
         "description": "Number of ORS Students by Student Decile, Ethnic Group and Funding Type 2005-2017",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "decile ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -276,21 +227,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-007",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Age, Ethnic Group and Funding Type 2005-2019",
         "description": "Number of ORS Students by Student ages 5-21, Ethnic Group and Funding Type 2005-2017",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "decile ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -309,21 +253,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-008",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Regional Council, Student Ethnicity and Funding Type as at 1 July",
         "description": "Number of ORS Students by Regional Council, Student Ethnicity and Funding Type as at 1 July",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "regional council ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -342,21 +279,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-009",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Territorial Authority, Student Ethnicity and Funding Type as at 1 July",
         "description": "Number of ORS Students by Territorial Authority, Student Ethnicity and Funding Type as at 1 July",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "territorial authority ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -375,21 +305,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-010",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Ethnicity, Gender and Funding Type as at 1 July",
         "description": "Number of ORS Students by Student Ethnicity, Gender and Funding Type as at 1 July",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "gender ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -408,21 +331,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-011",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Age, Gender and Funding Type as at 1 July",
         "description": "Number of ORS Students by Student Age, Gender and Funding Type as at 1 July",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "gender age ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -441,21 +357,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-012",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Gender, Regional Council and Funding Type as at 1 July",
         "description": "Number of ORS Students by Student Gender, Regional Council and funding Type as at 1 July",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "gender regional council age ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -474,21 +383,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-013",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Number of ORS Students by Student Gender, Territorial Authority and Funding Type as at 1 July",
         "description": "Number of ORS Students by Student Gender, Territorial Authority and Funding Type as at 1 July",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
-        "Can be open": "Y",
-        "What is required to open?": "Update",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "gender regional council age ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
         ],
@@ -507,20 +409,13 @@
         ]
     },
     {
-        "identifier": "MOE-LS-014",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Percentage of Time by Reason for Absence, by Week, Term 2",
         "description": "Absences broken down by reason, time and week",
-        "Is Open": "y",
         "landingPage": "https://www.educationcounts.govt.nz/publications/schooling/new-zealand-schools-attendance-survey-term-2,-2019",
-        "Can be open": "Y",
-        "What is required to open?": "N/A",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "absence reason time"
         ],
@@ -538,20 +433,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-014",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "New Zealand Schools Attendance Survey: Term 2, 2019",
         "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning | Kāhui Ako and other sector representatives understand patterns of attendance and how these can affect a student’s achievement and wellbeing. This report looks at data generated by the 2019 Attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools. The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region. The data also includes reasons for absence.",
-        "Is Open": "Y - note dates on data.govt stop at 2015",
         "landingPage": "https://www.educationcounts.govt.nz/publications/schooling/new-zealand-schools-attendance-survey-term-2,-2019",
-        "Can be open": "Y",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "attendance absence reason time"
         ],
@@ -570,21 +459,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-015",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "New Zealand Schools Attendance Survey: Term 2, 2018",
         "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning | Kāhui Ako and other sector representatives understand patterns of attendance and how these can affect a student’s achievement and wellbeing. This report looks at data generated by the 2018 Attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools. The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region. The data also includes reasons for absence.",
-        "Is Open": "y",
         "landingPage": "https://www.educationcounts.govt.nz/publications/series/2503/new-zealand-schools-attendance-survey-term-2,-2018",
-        "Can be open": "Y",
-        "What is required to open?": "N/A",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "attendance absence reason time"
         ],
@@ -603,21 +485,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-015",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Percentage of Time by Reason for Absence by Ethnicity, Term 2",
         "description": "Absences broken down by reason, time, ethnicity and year",
-        "Is Open": "y",
         "landingPage": "www.educationcounts.govt.nz/__data/assets/excel_doc/0006/198024/NZ-Schools-Attendance-Survey-2019-Datac.xlsx",
-        "Can be open": "Y",
-        "What is required to open?": "N/A",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "absence reason time ethnicity"
         ],
@@ -634,21 +509,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-016",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "New Zealand Schools Attendance Survey: Term 2, 2017",
         "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning | Kāhui Ako and other sector representatives understand patterns of attendance and how these can affect a student’s achievement and wellbeing. This report looks at data generated by the 2017 Attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools. The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region. The data also includes reasons for absence.",
-        "Is Open": "y",
         "landingPage": "https://www.educationcounts.govt.nz/publications/series/2503/2017-attendance-in-new-zealand-schools",
-        "Can be open": "Y",
-        "What is required to open?": "N/A",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "attendance absence reason time gender"
         ],
@@ -667,21 +535,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-016",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Percentage of Time by Reason for Absence, by Gender and Year Level, Term 2",
         "description": "Absences broken down by reason, time, gender and year",
-        "Is Open": "y",
         "landingPage": "www.educationcounts.govt.nz/__data/assets/excel_doc/0006/198024/NZ-Schools-Attendance-Survey-2019-Datac.xlsx",
-        "Can be open": "Y",
-        "What is required to open?": "N/A",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "absence reason time gender"
         ],
@@ -698,21 +559,14 @@
         ]
     },
     {
-        "identifier": "MOE-LS-017",
         "publisher": {
             "name": "Ministry of Education"
         },
         "title": "Percentage of Time by Reason for Absence, by Decile, Term 2",
         "description": "Absences broken down by reason, time, decile and year",
-        "Is Open": "y",
         "landingPage": "www.educationcounts.govt.nz/__data/assets/excel_doc/0006/198024/NZ-Schools-Attendance-Survey-2019-Datac.xlsx",
-        "Can be open": "Y",
-        "What is required to open?": "N/A",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "accrualPeriodicity": "R/P1Y",
-        "One-off data collection": "N",
-        "Sector": "Education",
-        "Business Unit": "Sector Enablement & Support",
         "keyword": [
             "absence reason time decile"
         ],
