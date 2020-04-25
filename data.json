@@ -1,15 +1,59 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "http://www.education.govt.nz/data.json",
+      "@id": "https://education.govt.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
+        "title": "New Zealand Public Sector Websites",
+        "description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
+        "identifier": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "websites",
+            "open government",
+            "url"
+        ],
+        "issued": "2011-08-26",
+        "modified": "2015-04-1",
+        "publisher": {
+            "name": "Department of Internal Affairs",
+            "mbox": "info@dia.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "Jane Doe",
+            "hasPhone": "4123456789",
+            "hasEmail": "contact@agency.govt.nz"
+        },
+        "landingPage": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Fiscal, tax and economics",
+        "temporal": "2011-08-26/2015-04-01",
+        "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[165.6298828125,-47.5468715989],[179.3408203125,-47.5468715989],[179.3408203125,-33.9068955513],[165.6298828125,-33.9068955513],[165.6298828125,-47.5468715989]]]}",
+        "distribution": [
+            {
+                "downloadURL": "https://webtoolkit.govt.nz/files/PublicSectorWebsites01April2015.csv",
+                "title": "Snapshot at 15 March 2017",
+                "format": "CSV / text",
+                "size": "58Kb"
+            },
+            {
+                "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
+                "title": "Latest dataset updates",
+                "format": "CSV",
+                "size": "65kB"
+            },
+            {
+                "downloadURL": "https://www.govt.nz/api/v2/consultation/list",
+                "title": "A list of consultations",
+                "format": "API"
+            }
+        ]
+    },
+    {
         "title": "Number of students involved with the Ongoing Resourcing Scheme (ORS) as at 1 July",
         "description": "ORS provides support for a very small number of students, with the highest level of need for special education, to help them join in and learn alongside other children at school. Students are funded under either a Very High or a High needs level, and in 2010 a third extension category was created to include an additional 400 students with moderate-to-high special needs, who were older than nine and had missed out on the ORS by a narrow margin in the past.",
-        "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
         "license": "https://creativecommons.org/licenses/by/4.0",
-        "accrualPeriodicity": "R/P1Y",
         "keyword": [
             "college",
             "education",
@@ -22,15 +66,17 @@
             "secondary school",
             "special education"
         ],
-        "temporal": "2005/2019",
         "publisher": {
             "name": "Ministry of Education"
         },
         "contactPoint": {
             "fn": "Education Data Requests",
-            "hasPhone": "64 4 463 8065",
             "hasEmail": "Requests.EDK@education.govt.nz"
         },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2005/2019",
         "distribution": [
             {
                 "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/146255/1-Number-of-Students-by-Time-series-2005-2019.xlsx",
@@ -40,129 +86,6 @@
             {
                 "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0020/172154/2-ORS-by-Student-Decile-Ethnicity-2005-2019.xlsx",
                 "title": "ORS by student decile and ethnicity 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/146256/3-ORS-by-Student-Ethnicity-and-Age-2005-2019.xlsx",
-                "title": "ORS by student ethnicity and age 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/146257/4-ORS-by-Student-Ethnicity-and-Regional-Council-2005-2019.xlsx",
-                "title": "ORS by student ethnicity and regional council 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/146258/5-ORS-by-Student-Ethnicity-and-Territorial-Authority-2005-2019.xlsx",
-                "title": "ORS by student ethnicity and territorial authority 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/146259/6-ORS-by-Student-Gender-and-Ethnicity-2005-2019.xlsx",
-                "title": "ORS by student gender and ethnicity 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/146260/7-ORS-by-Student-Gender-and-Age-2005-2019.xlsx",
-                "title": "ORS by student gender and age 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0020/146261/8-ORS-by-Student-Gender-and-Regional-Council-2005-2019.xlsx",
-                "title": "ORS by student gender and regional council 2005-2019",
-                "format": "XLSX"
-            },
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/146262/9-ORS-by-Student-Gender-and-Territorial-Authority-2005-2019.xlsx",
-                "title": "ORS by student gender and territorial authority 2005-2019",
-                "format": "XLSX"
-            }
-        ]
-    },
-    {
-        "title": "New Zealand Schools Attendance Survey: Term 2, 2019",
-        "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning, Kahui Ako and other sector representatives understand patterns of attendance and how these can affect a student's achievement and wellbeing. This report looks at data generated by the 2019 Attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools. The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region. The data also includes reasons for absence.",
-        "landingPage": "https://www.educationcounts.govt.nz/publications/schooling/new-zealand-schools-attendance-survey-term-2,-2019",
-        "license": "https://creativecommons.org/licenses/by/4.0",
-        "accrualPeriodicity": "R/P1Y",
-        "keyword": [
-            "attendance",
-            "absence",
-            "reason",
-            "time"
-        ],
-        "temporal": "2011/2019",
-        "publisher": {
-            "name": "Ministry of Education"
-        },
-        "contactPoint": {
-            "fn": "Education Data Requests",
-            "hasPhone": "64 4 463 8065",
-            "hasEmail": "Requests.EDK@education.govt.nz"
-        },
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/198024/NZ-Schools-Attendance-Survey-2019-Datac.xlsx",
-                "title": "2011-2019 Attendance Data",
-                "format": "XLSX"
-            }
-        ]
-    },
-    {
-        "title": "New Zealand Schools Attendance Survey: Term 2, 2018",
-        "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning, Kahui Ako and other sector representatives understand patterns of attendance and how these can affect a student's achievement and wellbeing. This report looks at data generated by the 2018 Attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools. The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region. The data also includes reasons for absence.",
-        "landingPage": "https://www.educationcounts.govt.nz/publications/series/2503/new-zealand-schools-attendance-survey-term-2,-2018",
-        "license": "https://creativecommons.org/licenses/by/4.0",
-        "accrualPeriodicity": "R/P1Y",
-        "keyword": [
-            "attendance",
-            "absence",
-            "reason",
-            "time"
-        ],
-        "temporal": "2011/2018",
-        "publisher": {
-            "name": "Ministry of Education"
-        },
-        "contactPoint": {
-            "fn": "Education Data Requests",
-            "hasPhone": "64 4 463 8065",
-            "hasEmail": "Requests.EDK@education.govt.nz"
-        },
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/193295/2018-Attendance-Survey-Data-Tables.xlsx",
-                "title": "2011-2018 Attendance Data",
-                "format": "XLSX"
-            }
-        ]
-    },
-    {
-        "title": "New Zealand Schools Attendance Survey: Term 2, 2017",
-        "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning,Kahui Ako and other sector representatives understand patterns of attendance and how these can affect a student's achievement and wellbeing. This report looks at data generated by the 2017 Attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools. The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region. The data also includes reasons for absence.",
-        "landingPage": "https://www.educationcounts.govt.nz/publications/series/2503/2017-attendance-in-new-zealand-schools",
-        "license": "https://creativecommons.org/licenses/by/4.0",
-        "accrualPeriodicity": "R/P1Y",
-        "keyword": [
-            "attendance",
-            "absence",
-            "reason",
-            "time",
-            "gender"
-        ],
-        "temporal": "2011/2017",
-        "publisher": {
-            "name": "Ministry of Education"
-        },
-        "contactPoint": {
-            "fn": "Education Data Requests",
-            "hasPhone": "64 4 463 8065",
-            "hasEmail": "Requests.EDK@education.govt.nz"
-        },
-        "distribution": [
-            {
-                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/184628/Attendance-Survey-Data-Tables-2017.xlsx",
-                "title": "2011-2017 Attendance Data",
                 "format": "XLSX"
             }
         ]
