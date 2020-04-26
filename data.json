@@ -5,11 +5,11 @@
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "title": "Number of ORS Students by  Student Age, Gender and Funding Type as at 1 July",
-        "description": "Number of ORS Students by  Student Age, Gender and Funding Type as at 1 July",
+        "title": "Number of ORS Students by Student Age, Gender and Funding Type as at 1 July",
+        "description": "Number of ORS Students by Student Age, Gender and Funding Type as at 1 July",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
-            "gender age ethnicity funding education high need high school ors ongoing resourcing scheme primary school secondary school special education"
+            "gender,age,ethnicity,funding,education,high need,high school,ors, ongoing resourcing scheme,primary school,secondary school,special education"
         ],
         "publisher": {
             "name": "Ministry of Education"
@@ -36,7 +36,7 @@
         "description": "ORS provides support for a very small number of students, with the highest level of need for special education, to help them join in and learn alongside other children at school. Students are funded under either a Very High or a High needs level, and in 2010 a third extension category was created to include an additional 400 students with moderate-to-high special needs, who were older than nine and had missed out on the ORS by a narrow margin in the past.",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
-            "college education gender high need high school ors ongoing resourcing scheme primary school secondary school special education"
+            "college,education,gender,high need,high school,ors,ongoing resourcing scheme,primary school,secondary school, special education"
         ],
         "publisher": {
             "name": "Ministry of Education"
