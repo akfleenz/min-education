@@ -1,0 +1,693 @@
+{
+      "@context": "https://www.data.govt.nz/catalog.jsonld",
+      "@id": "https://education.govt.nz/data.json",
+      "@type": "dcat:Catalog",
+      "conformsTo": "https://www.data.govt.nz/toolkit/schema",
+      "dataset":[
+    {
+        "title": "Number of students involved with the Ongoing Resourcing Scheme (ORS) as at 1 July",
+        "description": "ORS provides support for a very small number of students, with the highest level of need for special education, to help them join in and learn alongside other children at school. Students are funded under either a Very High or a High needs level, and in 2010 a third ‘extension’ category was created to include an additional 400 students with moderate-to-high special needs, who were older than nine and had missed out on the ORS by a narrow margin in the past.",
+        "identifier": "MOE-LS-001",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "college",
+            "education",
+            "gender",
+            "high need",
+            "high school",
+            "ors",
+            "ongoing resourcing scheme",
+            "primary school",
+            "secondary school",
+            "special education"
+        ],
+        "issued": "11-2019",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/special-education/ongoing-resourcing-scheme",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2005/2019",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Sector Enablement & Support",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/146255/1-Number-of-Students-by-Time-series-2005-2019.xlsx",
+                "title": "Number of students by time series",
+                "format": "XLSX",
+                "size": "60KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0020/172154/2-ORS-by-Student-Decile-Ethnicity-2005-2019.xlsx",
+                "title": "ORS by student decile and ethnicity",
+                "format": "XLSX",
+                "size": "49KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/146256/3-ORS-by-Student-Ethnicity-and-Age-2005-2019.xlsx",
+                "title": "ORS by student ethnicity and age",
+                "format": "XLSX",
+                "size": "59KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/146257/4-ORS-by-Student-Ethnicity-and-Regional-Council-2005-2019.xlsx",
+                "title": "ORS by student ethnicity and regional council",
+                "format": "XLSX",
+                "size": "60KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/146258/5-ORS-by-Student-Ethnicity-and-Territorial-Authority-2005-2019.xlsx",
+                "title": "ORS by student ethnicity and territorial authority",
+                "format": "XLSX",
+                "size": "156KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/146259/6-ORS-by-Student-Gender-and-Ethnicity-2005-2019.xlsx",
+                "title": "ORS by student gender and ethnicity",
+                "format": "XLSX",
+                "size": "41KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/146260/7-ORS-by-Student-Gender-and-Age-2005-2019.xlsx",
+                "title": "ORS by student gender and age",
+                "format": "XLSX",
+                "size": "42KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0020/146261/8-ORS-by-Student-Gender-and-Regional-Council-2005-2019.xlsx",
+                "title": "ORS by student gender and regional council",
+                "format": "XLSX",
+                "size": "43KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/146262/9-ORS-by-Student-Gender-and-Territorial-Authority-2005-2019.xlsx",
+                "title": "ORS by student gender and territorial authority",
+                "format": "XLSX",
+                "size": "93KB"
+            }
+        ]
+    },
+    {
+        "title": "New Zealand Schools Attendance Survey: Term 2",
+        "description": "Student attendance data is published annually as part of a series of attendance information the Ministry of Education publishes. The report provides a picture of attendance in New Zealand schools to help schools, Communities of Learning | Kāhui Ako and other sector representatives understand patterns of attendance and how these can affect a student’s achievement and wellbeing.  This report looks at data generated by the previous year's attendance Survey taken during Term 2, between the end of April and the beginning of July. It is a voluntary survey run across primary and secondary schools.  The student attendance data is grouped by ethnicity, decile, gender and year level, school type and education region.  The data also includes reasons for absence.",
+        "identifier": "MOE-LS-002",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "absence",
+            "reason",
+            "time",
+            "ethnicity",
+            "decile",
+            "attendance"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/series/2503",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2004/2019",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Sector Enablement & Support",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/198024/NZ-Schools-Attendance-Survey-2019-Datac.xlsx",
+                "title": "2019 Attendance Data",
+                "format": "XLS",
+                "size": "202KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0007/198025/NZ-Schools-Attendance-Survey-2019.pdf",
+                "title": "2019 Attendance Report",
+                "format": "PDF",
+                "size": "532KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/193295/2018-Attendance-Survey-Data-Tables.xlsx",
+                "title": "2018 Attendance Data",
+                "format": "XLS",
+                "size": "186KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0006/193290/Term-2-Attendance-Survey-2018.pdf",
+                "title": "2018 Attendance Report",
+                "format": "PDF",
+                "size": "987KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/184628/Attendance-Survey-Data-Tables-2017.xlsx",
+                "title": "2017 Attendance Data",
+                "format": "XLS",
+                "size": "173KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0004/184630/New-Zealand-Schools-Attendance-Survey-2017.docx",
+                "title": "2017 Attendance Report",
+                "format": "DOC",
+                "size": "1.1MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/181810/2016-Attendance-Survey-Data-Tables.xlsx",
+                "title": "2016 Attendance Data",
+                "format": "XLS",
+                "size": "892.1KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0020/181811/2016-Survey-Week-Data-Tables.xlsx",
+                "title": "2016 Survey Week Data",
+                "format": "XLS",
+                "size": "457KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0009/181809/Attendance-in-New-Zealand-Schools-2016.docx",
+                "title": "2016 Attendance Report",
+                "format": "DOC",
+                "size": "1.2MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/173811/2015-Attendance-Survey-Data-Tables.xlsx",
+                "title": "2015 Attendance Data",
+                "format": "XLS",
+                "size": "531KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/173813/Survey-Week-Data-Tables.xlsx",
+                "title": "2015 Survey Week Data",
+                "format": "XLS",
+                "size": "431KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0020/173801/Attendance-in-New-Zealand-Schools-2015.docx",
+                "title": "2015 Attendance Report",
+                "format": "DOC",
+                "size": "1.2MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/165477/Attendance-Data-2014-01-Jul-2015.xlsx",
+                "title": "2014 Attendance Data",
+                "format": "XLS",
+                "size": "410KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0011/165476/Attendance-in-NZ-Schools-2014.doc",
+                "title": "2014 Attendance Report",
+                "format": "DOC",
+                "size": "383KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/145915/Attendance-Data-2013-27-Jan-2014.xlsx",
+                "title": "2013 Attendance Data",
+                "format": "XLS",
+                "size": "353KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0006/145914/Attendance-in-NZ-Schools-2013.doc",
+                "title": "2013 Attendance Report",
+                "format": "DOC",
+                "size": "321KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/125576/attendance-data-2012-09072013B.xls",
+                "title": "2012 Attendance Data",
+                "format": "XLS",
+                "size": "711KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0007/125575/Attendance-in-NZ-Schools-2012.doc",
+                "title": "2012 Attendance Report",
+                "format": "DOC",
+                "size": "539KB"
+            }
+        ]
+    },
+    {
+        "title": "Data on homeschooling - time series",
+        "description": "The homeshooling data is grouped student gender, ethnic group, age, duration, territorial authority or regional council 1998 - 2019.",
+        "identifier": "MOE-LS-003",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "student",
+            "learner",
+            "homeschoolers",
+            "age",
+            "territorial authority",
+            "regional council",
+            "gender",
+            "ethnicity",
+            "duration"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/schooling/student-numbers/homeschooling",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "1998/2019",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Sector Enablement & Support",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/145286/1-Number-of-Students-by-Time-series-1998-2019.xlsx",
+                "title": "Number of Students by Time Series",
+                "format": "XLS",
+                "size": "32KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0010/169084/2-Number-of-Students-by-Student-Gender,-Ethnic-Group,-and-Age-1998-2019.xlsx",
+                "title": "Number of Students by Student Gender, Ethnic Group & Age",
+                "format": "XLS",
+                "size": "63KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0010/145288/3-Number-of-Students-by-Student-Gender,-Ethnic-Group,-and-Duration-1998-2019.xlsx",
+                "title": "Number of Students by Student Gender, Ethnic Group & Duration",
+                "format": "XLS",
+                "size": "62KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/145289/4-Number-of-students-by-Student-Gender,-Ethnic-Group,-and-Ethnicity-1998-2019.xlsx",
+                "title": "Number of Students by Student Gender, Ethnic Group & Ethnicity",
+                "format": "XLS",
+                "size": "41KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/145290/5-Number-of-Students-by-Student-Gender,-Ethnic-Group,-and-Regional-Council-1998-2019.xlsx",
+                "title": "Number of Students by Student Gender, Ethnic Group & Regional Council",
+                "format": "XLS",
+                "size": "68KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0004/145291/6-Number-of-Students-by-Student-Gender,-Ethnic-Group,-and-Territorial-Authority-1998-2019.xlsx",
+                "title": "Number of Students by Student Gender, Ethnic Group & Territorial Authority",
+                "format": "XLS",
+                "size": "150KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/145292/7-Number-of-Students-by-Duration-and-Regional-Council-1998-2019.xlsx",
+                "title": "Number of Students by Duration & Regional Council",
+                "format": "XLS",
+                "size": "66KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/145293/8-Number-of-Students-by-Duration-and-Territorial-Authority-1998-2019.xlsx",
+                "title": "Number of Students by Duration & Territorial Authority",
+                "format": "XLS",
+                "size": "146KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/145294/9-Number-of-Students-by-Student-Age-and-Regional-Council-1998-2019.xlsx",
+                "title": "Number of Students by Student Age & Regional Council",
+                "format": "XLS",
+                "size": "66KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/145295/10-Number-of-Students-by-Student-Age-and-Territorial-Authority-1998-2019.xlsx",
+                "title": "Number of Students by Student Age & Territorial Authority",
+                "format": "XLS",
+                "size": "146KB"
+            }
+        ]
+    },
+    {
+        "title": "Data on homeschooling turnover",
+        "description": "The homeshooling turnover data is grouped student gender, ethnic group, age, duration, territorial authority or regional council 1998 - 2019.",
+        "identifier": "MOE-LS-004",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "student",
+            "learner",
+            "homeschoolers",
+            "age",
+            "territorial authority",
+            "regional council",
+            "gender",
+            "ethnicity",
+            "duration"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/schooling/student-numbers/homeschooling",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "1998-2019",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Sector Enablement & Support",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/145296/11-Homeschooling-Turnover-by-Time-series-1998-2019.xlsx",
+                "title": "Homeschooling Turnover by Time Series",
+                "format": "XLS",
+                "size": "34KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0010/145297/12-Students-Entering-Homeschooling-by-Student-Age-and-Regional-Council-1998-2019.xlsx",
+                "title": "Students Entering Homeschooling by Student Age & Region",
+                "format": "XLS",
+                "size": "60KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/145298/13-Students-Entering-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Age-1998-2019.xlsx",
+                "title": "Students Entering Homeschooling by Gender, Ethnic Group & Age",
+                "format": "XLS",
+                "size": "57KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/145299/14-Students-Entering-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Ethnicity-1998-2019.xlsx",
+                "title": "Students Entering Homeschooling by Gender, Ethnic Group & Ethnicity",
+                "format": "XLS",
+                "size": "40KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0013/145300/15-Students-Entering-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Regional-Council-1998-2019.xlsx",
+                "title": "Students Entering Homeschooling by Gender, Ethnic Group & Region",
+                "format": "XLS",
+                "size": "65KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0015/145302/16-Students-Finishing-Homeschooling-by-Duration-and-Regional-Council-1998-2019.xlsx",
+                "title": "Students Finishing Homeschooling by Duration & Region",
+                "format": "XLS",
+                "size": "63KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0014/145301/17-Students-Finishing-Homeschooling-by-Student-Age-and-Regional-Council-1998-2019.xlsx",
+                "title": "Students Finishing Homeschooling by Age & Regional Council",
+                "format": "XLS",
+                "size": "63KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0016/145303/18-Students-Finishing-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Age-1998-2019.xlsx",
+                "title": "Students Finishing Homeschooling by Gender, Ethnic Group & Age",
+                "format": "XLS",
+                "size": "60KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0017/145304/19-Students-Finishing-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Duration-1998-2019.xlsx",
+                "title": "Students Finishing Homeschooling by Gender, Ethnic Group & Duration",
+                "format": "XLS",
+                "size": "59KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0018/145305/20-Students-Finishing-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Ethnicity-1998-2019.xlsx",
+                "title": "Students Finishing Homeschooling by Gender, Ethnic Group & Ethnicity",
+                "format": "XLS",
+                "size": "40KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/145306/21-Students-Finishing-Homeschooling-by-Student-Gender,-Ethnic-Group,-and-Regional-Council-1998-2019.xlsx",
+                "title": "Students Finishing Homeschooling by Gender, Ethnic Group & Region",
+                "format": "XLS",
+                "size": "64KB"
+            }
+        ]
+    },
+    {
+        "title": "Stand-downs, suspensions, exclusions and expulsions from school",
+        "description": "Stand-downs, suspensions, exclusions and expulsions are measures of a school’s reaction to challenging behaviour. While one school may opt to suspend a student over a particular incident, another school may not. The number of these incidents should not be used as a proxy measure for student behaviour. This indicator uses age-standardised rates. These are expressed as the number of stand-downs, suspensions, exclusions and expulsions per 1,000 students enrolled. (Most stand-downs, suspensions and exclusions occur between the ages of 13-15). Age-standardisation allows a fair comparison between different cohorts. In any given year the schooling population will have a different age distribution. By standardising for age we can compare across years.",
+        "identifier": "MOE-LS-005",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "student",
+            "learner",
+            "exclusion",
+            "standdown",
+            "suspension",
+            "exclusion",
+            "expulsion"
+        ],
+        "issued": "06-2019",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/student-engagement-participation/stand-downs-suspensions-exclusions-expulsions",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2000/2018",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Sector Enablement & Support",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/147765/Stand-downs-2018-Data.xlsx",
+                "title": "Standown-downS data 2018",
+                "format": "XLS",
+                "size": "63.9KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0004/147766/Suspensions-2018-Data.xlsx",
+                "title": "Suspensions Data",
+                "format": "XLS",
+                "size": "63.2KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/147767/Exclusions-2018-Data.xlsx",
+                "title": "Exclusions Data",
+                "format": "XLS",
+                "size": "62.4KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/147768/Expulsions-2018-Data.xlsx",
+                "title": "Expulsions Data",
+                "format": "XLS",
+                "size": "56.9KB"
+            }
+        ]
+    },
+    {
+        "title": "Early leaving exemptions",
+        "description": "Proportion of 15-year-old students enrolled in school who obtain an early leaving exemption. Enrolment in school is compulsory for all students aged between 6 and 16 years.  However, parents of 15-year-old students may apply to the Ministry of Education for an exemption from schooling on the basis of educational problems, conduct, or if the student may not benefit from attending available schools.  Parents are required to give details about training programmes or employment that the student would move on to in the event of an early leaving exemption being granted.",
+        "identifier": "MOE-LS-006",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "student",
+            "learner",
+            "early leaving exemption",
+            "exemption applications",
+            "approved",
+            "declined"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/student-engagement-participation/1951",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Sector Enablement & Support",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0010/107929/2018-Early-Leaving-Indicator-Data.xlsx",
+                "title": "Data Tables",
+                "format": "XLS",
+                "size": "49.7KB"
+            }
+        ]
+    },
+    {
+        "title": "Teaching staff data by headcount and FTE",
+        "description": "A time series of Teacher Head Count and FTTE in a single table for each state and state integrated schools, and data on current ethnicity of the teaching workforce.",
+        "identifier": "MOE-WK-002",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "workforce",
+            "teaching staff",
+            "school type",
+            "school authority",
+            "decile",
+            "regional council",
+            "territorial authority"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/schooling/teaching_staff/teacher-workforce",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2008/2018",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Early Learning and Student Achievement",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/188127/School-TimeSeries-2008_2018-Alphabetical-order.xlsx",
+                "title": "Time series by teaching staff 2008-2018",
+                "description": "A time series of Teacher Head Count and FTTE in a single table for each state and state integrated schools.",
+                "format": "XLS",
+                "size": "405KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0010/194095/Breakdown-by-FTE.xlsx",
+                "title": "Time breakdown by FTE.",
+                "description": "The data reflects the current ethnicity of the teaching workforce.",
+                "format": "XLS",
+                "size": "158KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/188214/Prioritised_ETHNICITY.xlsx",
+                "title": "Prioritised ethnicity data",
+                "format": "XLS",
+                "size": "24KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/194096/Breakdown-by-Headcount.xlsx",
+                "title": "Teacher headcount by selected dimensions",
+                "description": "Dimensions include age group, gender, ethnicity, decile, school type, sector, tenure, regional council, territorial authority, urban/rural and designation.",
+                "format": "XLS",
+                "size": "134KB"
+            }
+        ]
+    },
+    {
+        "title": "Writing / Tuhituhi : primary schooling",
+        "description": "This writing/tuhituhi indicator draws on two sources of information:\nFor state and state-integrated schools that use the New Zealand Curriculum, a summary of the National Standards writing results are used. National Standards results are based on Overall Teacher Judgements (OTJs) about whether students in Years 1-8 are achieving at a level 'well below', 'below', 'at', or 'above' the national standard in writing for their year level.\nFor state and state-integrated kura and schools that use Te Marautanga o Aotearoa (mainly Māori medium education schools), the Ngā Whanaketanga Rumaki Māori results in the tuhituhi (writing) skill area are used. Ngā Whanaketanga Rumaki Māori are the Māori medium equivalent of National Standards.",
+        "identifier": "MOE-CP-001",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "national standards",
+            "writing",
+            "overall teacher judgement",
+            "otj",
+            "manawa ora",
+            "manawa toa",
+            "tuhituhi",
+            "nga whanaketanga rumaki"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/education-and-learning-outcomes/writing-tuhituhi-primary-schooling",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2012/2016",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Early Learning and Student Achievement",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/149307/2016-Writing-Tuhituhi-Data-Tables.xlsx",
+                "title": "Data Tables",
+                "format": "XLS",
+                "size": "64.9KB"
+            }
+        ]
+    },
+    {
+        "title": "Mathematics/Pangarau: primary schooling",
+        "description": "This mathematics indicator draws on three sources of information:\nFor state and state-integrated schools that use the New Zealand Curriculum, a summary of the National Standards mathematics results are provided. National Standards results are based on Overall Teacher Judgements (OTJs) about whether students in Years 1-8 were achieving at a level 'well below', 'below', 'at', or 'above' the standard in mathematics for their year level.\nFor state and state-integrated kura and schools that use Te Marautanga o Aotearoa (mainly Māori medium education schools), the Ngā Whanaketanga Rumaki Māori results in the pāngarau (mathematics) skill area are used. Ngā Whanaketanga Rumaki Māori (NWRM) are the Māori medium equivalent of National Standards.\nAn overview of selected findings from the Trends in International Mathematics and Science Study 2014/2015 (TIMSS 2014/2015) is also included. The TIMSS assessments included questions on whole numbers, decimals and common fractions, two- and three- dimensional shapes, estimation, data representation, and patterns and relationships.",
+        "identifier": "MOE-CP-002",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "national standards",
+            "mathematics",
+            "overall teacher judgement",
+            "otj",
+            "manawa ora",
+            "manawa toa",
+            "nga whanaketanga rumaki"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/education-and-learning-outcomes/Mathematics-Pangarau-Primary-Schooling",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2012/2016",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Early Learning and Student Achievement",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/148977/2016-Mathematics-Pangarau-Data-Tables.xlsx",
+                "title": "Data Tables",
+                "format": "XLS",
+                "size": "147.6KB"
+            }
+        ]
+    },
+    {
+        "title": "Kōrero: primary schooling",
+        "description": "In the context of Ngā Whanaketanga Rumaki Māori, kōrero relates to oral communication or speaking. Oral communication is an important part of Māori culture and, more generally, an important part of conversing and connecting with others regardless of culture. Kōrero is especially important with Māori because up until the 19th century Māori was not a written language and speaking was the primary means of sharing information, or stories, and passing knowledge down through generations. Speaking in person also conveys the emotional or spiritual aspects of a message more strongly.",
+        "identifier": "MOE-CP-003",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "learner",
+            "student",
+            "assessment",
+            "korero"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/data/education-and-learning-outcomes/speaking-korero-primary-schooling",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "Is open ?": "Y",
+        "Sector": "Education",
+        "Business Unit": "Early Learning and Student Achievement",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/149297/2016-Korero-Data-Tables.xlsx",
+                "title": "Data Tables",
+                "format": "XLS",
+                "size": "30.3KB"
+            }
+        ]
+    }
+]}
