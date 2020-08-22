@@ -689,5 +689,890 @@
                 "size": "30.3KB"
             }
         ]
+    },
+    {
+        "title": "Reading/Pānui: primary schooling",
+        "description": "For state and state-integrated schools that use the New Zealand Curriculum, a summary of the National Standards reading results are provided. National Standards results are based on overall teacher judgements (OTJs) about whether students in Years 1-8 were achieving at a level 'well below', 'below',' at', or 'above' the standard in reading for their year level. \nFor state and state-integrated kura and schools that use Te Marautanga o Aotearoa (mainly Māori medium education schools), the Ngā Whanaketanga Rumaki Māori results in pānui (reading) are used. Ngā Whanaketanga Rumaki Māori are the Māori medium equivalent of National Standards.\nAn overview of selected findings from the Progress in International Reading Literacy Study 2010/11 (PIRLS-2010/11) is also included. PIRLS focuses on two overarching purposes that account for most of the reading undertaken by students at the middle primary level: reading for literary experience and reading to acquire and use information.",
+        "identifier": "MOE-CP-004",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "learner student assessment reading panui overall teacher judgement"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/education-and-learning-outcomes/reading-panui-primary-schooling",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "Sector": "Education",
+        "Business Unit": "Early Learning and Student Achievement",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/149272/2016-Reading-Panui-Data-Tables.xlsx",
+                "title": "Data Tables",
+                "format": "XLSX",
+                "size": "81.7 KB"
+            }
+        ]
+    },
+    {
+        "title": "Mathematics achievement: middle schooling",
+        "description": "Mathematics scores for Year 9 students",
+        "identifier": "MOE-CP-005",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "national standards",
+            "mathematics",
+            "timss",
+            "middle school"
+        ],
+        "issued": "02-2017",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/education-and-learning-outcomes/1776",
+        "theme": "Education",
+        "temporal": "1994/2014",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0018/143118/Maths-Achievement-Middle-School-Data.xls",
+                "title": "Data Tables",
+                "format": "XLSX",
+                "size": "84 KB"
+            }
+        ]
+    },
+    {
+        "title": "Mathematics literacy achievement: senior secondary schooling",
+        "description": "Mathematical literacy of 15 year-old students",
+        "identifier": "MOE-CP-006",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "mathematics",
+            "senior",
+            "secondary",
+            "literacy assessment"
+        ],
+        "issued": "12-2018",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/education-and-learning-outcomes/1863",
+        "theme": "Education",
+        "temporal": "2003/2015",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/146927/Mathematics-Literacy-Achievement-Senior-Secondary-Schooling.xlsx",
+                "title": "Data Tables",
+                "format": "XLSX",
+                "size": "34.5 KB"
+            }
+        ]
+    },
+    {
+        "title": "Science achievement: primary schooling",
+        "description": "This indicator draws on the Trends in International Mathematics and Science Study (TIMSS) assessments that included questions on the structure of living things, human health, conducting fair experiments, dissolving, electrical circuits, magnetism, fossils, and the environmental impact of human behaviour. The indicator provides information about the cumulative health of science education during primary schooling towards the end of Year 5 level in New Zealand.",
+        "identifier": "MOE-CP-007",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "science",
+            "timss",
+            "year 5",
+            "primary"
+        ],
+        "issued": "02-2017",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/main/education-and-learning-outcomes/1867",
+        "theme": "Education",
+        "temporal": "1994/2014",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/108514/Science-Achievement-Primary-Schooling-Data.xlsx",
+                "title": "Data Tables",
+                "format": "XLSX",
+                "size": "44.7 KB"
+            }
+        ]
+    },
+    {
+        "title": "Science achievement: middle schooling",
+        "description": "This indicator draws on the Trends in International Mathematics and Science Study (TIMSS) assessments that included questions on the structure of living things, human health, chemical reactions, experimental procedures, insulation and conduction, forces, volcanoes, and the effect of weather on the environment. The indicator provides information about the cumulative health of science education after primary and intermediate school, and towards the end of the first year of secondary schooling.",
+        "identifier": "MOE-CP-008",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "science",
+            "timss",
+            "middle school"
+        ],
+        "issued": "02-2017",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/indicators/definition/education-and-learning-outcomes/3849",
+        "temporal": "1994/2014",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0020/143138/Science-Achievement-Middle-Schooling-Data.xlsx",
+                "title": "Data Tables",
+                "format": "XLSX",
+                "size": "44.7 KB"
+            }
+        ]
+    },
+    {
+        "title": "Export Education Levy Statistics",
+        "description": "Statistics relating to the Export Education Levy, collected from the export education industry. Export education relates to the provision of education to full fee-paying international students who come to New Zealand to study in both the schooling and tertiary sectors.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "international education",
+            "international students",
+            "export education",
+            "levy"
+        ],
+        "issued": "08-10-2019",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/international-education/international-students-in-new-zealand",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2003/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/147133/Export-Education-Levy-Full-Year-Statistics-2018-final-Corrected-8-Oct-2019.xlsx",
+                "title": "Export Education Levy",
+                "description": "Full year statistics 2018 (corected 8 Oct 2019)",
+                "format": "XLSX",
+                "size": "250 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0017/115028/Exchange-rate-analysis,-June-2014.pdf",
+                "title": "Exchange rates and international student enrolments",
+                "description": "Data from 2003 - 2013",
+                "format": "PDF",
+                "size": "397 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0010/115030/NZ-Universities-Trends-in-International-Enrolments.pdf",
+                "title": "New Zealand universities trends in international enrolments",
+                "format": "PDF",
+                "size": "409 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0012/115050/Enrolments-of-international-students-2006-2012.pdf",
+                "title": "International student enrolments in New Zealand 2006-2012",
+                "format": "PDF",
+                "size": "923 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0007/149344/International-enrolments-in-NZ-schools,-July-2014.pdf",
+                "title": "New Zealand Schools: Trends in international enrolments to 2013",
+                "format": "PDF",
+                "size": "415 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0019/163036/Factsheet-Outcomes-for-International-Students.pdf",
+                "format": "PDF",
+                "size": "312 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0003/199254/2019-Final-EEL-Annual-Report.pdf",
+                "title": "Historic export education levy annual reports available from https://www.educationcounts.govt.nz/statistics/international-education/international-students-in-new-zealand",
+                "format": "PDF",
+                "size": "1.2 MB"
+            }
+        ]
+    },
+    {
+        "title": "International student satisfiction survey report",
+        "description": "Students in universities and institutes of technology/polytechnics were surveyed in 2011, and due to the effects of the February 2011 Christchurch earthquake, students in private training establishments, English language providers and secondary schools were surveyed one year later in 2012.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "international education",
+            "international students",
+            "export education",
+            "satisfaction survey"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/international-education/international-students-in-new-zealand",
+        "theme": "Education",
+        "temporal": "2011/2012",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0018/163206/Factsheet-Satisfaction-of-International-Students-2015.pdf",
+                "title": "International Education Fact Sheet: Satisfaction of international students",
+                "format": "PDF",
+                "size": "188 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0016/114037/2012-NZ-I-Graduate-Survey-Summary-Results-PTEs.pdf",
+                "title": "New Zealand PTE (Private Training Education) 2012 summary results",
+                "format": "PDF",
+                "size": "200 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0017/114038/2012-NZ-I-Graduate-Survey-Presentation-PTEs.pdf",
+                "title": "New Zealand PTE (Private Training Education) 2012 presentation",
+                "format": "PDF",
+                "size": "2.5 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0018/114039/2012-NZ-I-Graduate-Survey-Summary-Results-ELPs.pdf",
+                "title": "New Zealand ELP (English Language Provider) 2012 summary results",
+                "format": "PDF",
+                "size": "200 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0012/114042/2012-NZ-I-Graduate-Survey-Presentation-Schools.pdf",
+                "title": "New Zealand ELP (English Language Provider) 2012 presentation",
+                "format": "PDF",
+                "size": "5.7 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0011/114041/2012-NZ-I-Graduate-Survey-Summary-Results-Schools.pdf",
+                "title": "New Zealand school sector student survey 2012 summary results",
+                "format": "PDF",
+                "size": "200 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0012/114042/2012-NZ-I-Graduate-Survey-Presentation-Schools.pdf",
+                "title": "New Zealand school sector student survey 2012 presentation",
+                "format": "PDF",
+                "size": "5.4 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0016/105064/2011-NZ-ITP-Sector-Executive-Summary.pdf",
+                "title": "New Zealand ITP (International Tertiary Provider) 2011 executive summary",
+                "format": "PDF",
+                "size": "403 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0017/105065/2011-NZ-Universities-Executive-Summary.pdf",
+                "title": "New Zealand universities international student barometer 2011 executive summary",
+                "format": "PDF",
+                "size": "397 KB"
+            }
+        ]
+    },
+    {
+        "title": "Internationalisation in NZ tertiary education organisations: summary",
+        "description": "This study that was carried out in three phases between 2013 and 2015, provides information on the extent to which tertiary education providers in New Zealand have engaged in internationalisation activities.  It builds on two previous Ministry studies: Internationalisation and Tertiary Education Institutions in New Zealand (1998) and Internationalisation in New Zealand Tertiary Education Organisations (2006).  This third study is part of the Ministry of Education's monitoring and reporting activity, particularly of progress made in implementing the goals of the Leadership Statement for International Education",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "international education",
+            "international students",
+            "export education"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/international-education/internationalisation-of-education-providers-in-nz",
+        "theme": "Education",
+        "temporal": "2013/2015",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0005/168881/Internationalisation-of-TEOs-ITPs-A3-summary.docx",
+                "title": "Institutes of Technology | Polytechnics: Summary",
+                "format": "Word",
+                "size": "1.1 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0006/168882/Internationalisation-of-TEOs-PTEs-A3-summary.docx",
+                "title": "Private Training Establishments: Summary",
+                "format": "WORD",
+                "size": "1.0 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0007/168883/Internationalisation-of-TEOs-Universities-A3-summary.docx",
+                "title": "Universities: Summary",
+                "format": "WORD",
+                "size": "1.1 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0008/168884/Phase-One-ITPS.docx",
+                "title": "Institutes of Technology Polytechnics: Phase 1",
+                "description": "Phase One focused on international student programmes",
+                "format": "WORD",
+                "size": "128 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0009/168885/Phase-One-PTES.docx",
+                "title": "Private Training Establishments: Phase 1",
+                "description": "Phase One focused on international student programmes",
+                "format": "WORD",
+                "size": "109 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0010/168886/Phase-One-UNIS.docx",
+                "title": "Universities: Phase 1",
+                "format": "WORD",
+                "size": "146 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0011/168887/Phase-Two-Report-ITPs.docx",
+                "title": "Institutes of Technology/Polytechnics: Phase 2",
+                "description": "Phase Two on the internationalisation of teaching and learning and students' international learning experiences",
+                "format": "WORD",
+                "size": "82KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0012/168888/Phase-Two-Report-PTEs.docx",
+                "title": "Private Training Establishments: Phase 2",
+                "description": "Phase Two on the internationalisation of teaching and learning and students' international learning experiences",
+                "format": "WORD",
+                "size": "82 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/word_doc/0004/168889/Phase-Two-Report-UNIS.doc",
+                "title": "Universities: Phase 2",
+                "description": "Phase Two on the internationalisation of teaching and learning and students' international learning experiences",
+                "format": "WORD",
+                "size": "487 KB"
+            }
+        ]
+    },
+    {
+        "title": "Benefits of international education for New Zealand",
+        "description": "Statistics on the benefits that accrue to New Zealand from international education. This section includes statistics on the economic impact of international education and the contribution that international education makes to the New Zealand community.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "international education",
+            "international students",
+            "export education",
+            "economic benefits"
+        ],
+        "issued": "30-06-2008",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/publications/international/35364",
+        "theme": "Education",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0007/35368/EconomicImpactReport08.pdf",
+                "title": "Full Report",
+                "format": "PDF",
+                "size": "1.1 MB"
+            }
+        ]
+    },
+    {
+        "title": "Students' international learning",
+        "description": "Statistics on students’ participation and achievement in learning that contributes to their knowledge of the world, that provide a picture of students’ development of international and intercultural skills, and students’ uptake of opportunities for study overseas.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "language learning",
+            "student dvelopment",
+            "intercultural skills",
+            "international education"
+        ],
+        "issued": "06-2017",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/international-education/students-international-learning2",
+        "theme": "Education",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/144178/Primary-language-enrolments-2000-2017.xlsx",
+                "title": "Language learning statistics: Years 1-8",
+                "description": "Statistics relating to the language learning of school students in Years 1-8. Data is taken from the July School Roll Returns.",
+                "format": "XLSX",
+                "size": "46 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0019/144181/2.-Secondary-Languages-By-School-1996-2018.xlsx",
+                "title": "Language Learning Statistics: Years 9-13",
+                "description": "Statistics relating to the language learning of school students in Years 9-13. Data is taken from the July School Roll Returns.",
+                "format": "XLSX",
+                "size": "242 KB"
+            }
+        ]
+    },
+    {
+        "title": "Māori Language in Schooling",
+        "description": "A snapshot of Māori Language Learning in the schooling sector as at 1 July 2019. It reports on 3 levels of Māori Language in Education: Māori medium, Māori language in English medium, and Students not involved in Māori language in education",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "maori",
+            "language learning",
+            "māori education"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/maori-education/maori-in-schooling/6040",
+        "theme": "Education",
+        "temporal": "01-07-2000/01-07-2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/114386/_1-Maori-Language-Learning-Student-Numbers-Pivot-2000-2019.xlsx",
+                "title": "Pivot Table: Student numbers 2000-2019",
+                "format": "XLSX",
+                "size": "6.5 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/152649/_2-Maori-Language-Learning-Student-Numbers-by-Ethnicity-Pivot-2004-2019.xlsx",
+                "title": "Pivot Table: Student numbers with ethnicity 2004-2019",
+                "format": "XLSX",
+                "size": "7.1 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/114387/_3-Maori-Language-Learning-School-Numbers-Pivot-2000-2019.xlsx",
+                "title": "Pivot Table: School numbers 2000-2019",
+                "size": "XLSX"
+            },
+            {
+                "downloadURL": "903 KB"
+            }
+        ]
+    },
+    {
+        "title": "Te Mataaho-a-Iwi / Education Dashboard",
+        "description": "The statistics presented here are about learners for whom Iwi affiliation information has been provided as part of the school enrolment process.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "iwi affiliation",
+            "learners",
+            "māori education"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/maori-education/te-mataaho-a-iwi-education-dashboard",
+        "theme": "Education",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/statistics/maori-education/te-mataaho-a-iwi-education-dashboard",
+                "title": "Online data visualisation tool",
+                "format": "HTML"
+            }
+        ]
+    },
+    {
+        "title": "Pacific Language in Schooling",
+        "description": "A snapshot of Pacific language in education in New Zealand Schools as at 1 July. It describes two levels of Pacific language learning: Pacific medium education and Pacific Language as a separate subject.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "pacific education",
+            "pacific language",
+            "education"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/pasifika-education/6044",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2000/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/114749/Pacific-Language-Learning-Student-Numbers-Pivot-2000-2019.xlsx",
+                "title": "Pacific Language Learning: Student Numbers 2000-2019",
+                "description": "Pivot table",
+                "format": "XLSX",
+                "size": "570 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/114748/Pacific-Language-Learning-Number-of-Schools-Pivot-2000-2019.xlsx",
+                "title": "Pacific Language Learning: Number of Schools 2000-2019",
+                "description": "Pivot table",
+                "format": "XLSX",
+                "size": "503 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0018/114750/Pacific-Language-Learning-Time-Series-Tables-2000-2019.xlsx",
+                "title": "Time Series Data: Pacific Language Learning 2000-2019",
+                "format": "XLSX",
+                "size": "88.3 KB"
+            }
+        ]
+    },
+    {
+        "title": "Children's participation in Early Childhood Education",
+        "description": "Statistics on children's participation in Early Childhood Education (ECE) including tables on prior participation rates of children starting school, enrolments and average hours spent in ECE.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "early childhood participation",
+            "participation",
+            "enrolment",
+            "average hours spent"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/early-childhood-education/participation",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2000/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0003/195816/ECE-PIM-Results-Summary-June-2019.pdf",
+                "title": "Participation intensity measure: 2017-2019",
+                "description": "Using administrative data drawn from the Early Learning Information (ELI) system and population projections from StatsNZ, we are able to calculate the percentage of children attending early childhood education for 10 or more hours a week on average at age 3 and at age 4",
+                "format": "PDF",
+                "size": "360 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0018/105561/Prior-participation-YE-June-2020.xlsx",
+                "title": "Numbers and rates of prior participation across time series",
+                "description": "Data on prior-participation show how many children have regularly attended Early Childhood Education (ECE) in the six months prior to starting school. This is collected through the Ministry of Education's ENROL system.",
+                "format": "XLSX",
+                "size": "4 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0003/184350/ECE-Enrolments-Pivot-Table-2000-2019.xlsx",
+                "title": "Enrolments in ECE by service type amd regional type variables",
+                "format": "XLSX",
+                "size": "7.4 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0004/184351/ECE-Enrolments-Time-Series-2000-2019.xlsx",
+                "title": "Enrolments in ECE across time (2000-2019)",
+                "format": "XLSX",
+                "size": "46 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/184352/Hours-of-Participation-Time-Series-2002-2019.xlsx",
+                "title": "Hours of Participation in ECE (2002-2019)",
+                "format": "XLSX",
+                "size": "60 KB"
+            }
+        ]
+    },
+    {
+        "title": "Enrolments in Early Childhood Education",
+        "description": "The Early Childhood Education (ECE) census is administered every year and provides a snapshot of high level statistics for ECE in New Zealand. Data captured is for a one week period, typically the last week in June and includes information about the services, enrolment/attendance numbers, teaching staff, and the use of languages.\nFrom 2000 to 2013, all ECE Census data was collected from paper-based RS61 returns. On these forms, enrolment data described regular enrolments in ECE licensed services regardless if children was absent during the return week. In 2014, the method for data collection changed and around 40% of services completed the Annual Census using the Ministry's new electronic collection tool for ECE: ELI.  In 2019, the proportion of licensed services using ELI rose to 90%. For these services, the data collected relates to attendances in ECE licensed services, not enrolments. Only Te Kōhanga Reo, casual and hospital-based services filed paper-based RS61 returns. This is a change to the definition of the data and means that the data should not be compared to previous years.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "early childhood participation",
+            "participation",
+            "enrolment",
+            "ece census"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/early-childhood-education/participation",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2000/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0011/196562/Attendance-at-licensed-ECE-services-in-2019.pdf",
+                "title": "Attendance at Licensed ECE Services",
+                "format": "PDF",
+                "size": "726 KB"
+            }
+        ]
+    },
+    {
+        "title": "Early Childhood Education Services",
+        "description": "There are different kinds of ECE services offering education and care to children from birth to school age. These services can either be 'teacher-led', 'whānau-led', or 'parent-led'. All ECE services must be licenced or certified by the Ministry of Education.\nTeacher-led services need to have at least 50% of teaching staff who are qualified and certified as ECE teachers. Teacher-led services include kindergartens, education and care services, home-based education and care, and Te Kura (the Correspondence School).\n'Whānau-led' or 'Parent-led' means that whānau, parents and caregivers are involved in educating and caring for their children. Te Kōhanga Reo are whānau-led services offering a Māori environment for tamariki and their whānau. Parent-led services includes Playcentres and Playgroups.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "early childhood education ece provider"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/early-childhood-education/services",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2000/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0004/196573/Licensed-ECE-services-in-2019.pdf",
+                "title": "Key findings from latest ECE Census",
+                "format": "PDF",
+                "size": "617 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0004/185737/New-Services-Pivot-Table-2000-2019.xlsx",
+                "title": "New ECE Services (pivot table)",
+                "description": "The tables below provide statistics on the number of ECE services, licensed places and waiting times.",
+                "format": "XLSX",
+                "size": "838 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/185738/New-Services-Time-Series-2000-2019.xlsx",
+                "title": "New ECE Services (time series)",
+                "format": "XLSX",
+                "size": "72.6 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/185739/Closed-Services-Pivot-Table-2000-2019.xlsx",
+                "title": "Closed ECE Services (pivot table)",
+                "format": "XLSX",
+                "size": "372 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/185740/Closed-Services-Time-Series-2000-2019.xlsx",
+                "title": "Closed ECE Services (time series)",
+                "format": "XLSX",
+                "size": "60.6 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/184544/Time-Series-ECE-Services-2002-2019.xlsx",
+                "title": "Number of ECE Services",
+                "format": "XLSX",
+                "size": "29.6 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/184543/Licensed-Places-Pivot-Table-2000-2019.xlsx",
+                "title": "Pivot Table: Number of Licensed ECE Places",
+                "format": "XLSX",
+                "size": "737 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/184545/Licensed-Places-Time-Series-2000-2019.xlsx",
+                "title": "Time Series Data: Number of Licensed ECE Places",
+                "format": "XLSX",
+                "size": "60.6 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/184541/Wait-Times-Pivot-Table-2002-2019.xlsx",
+                "title": "Pivot Table: ECE Waiting Times",
+                "format": "XLSX",
+                "size": "1.5 MB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0010/184546/Wait-Times-Time-Series-2002-2019.xlsx",
+                "title": "Time Series Data: ECE Waiting Times",
+                "format": "XLSX",
+                "size": "32.9 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/188645/Time-Series-Occupancy-Rates-2000-2019.xlsx",
+                "title": "Time Series Data: Occupancy Rates",
+                "size": "XLSX"
+            },
+            {
+                "downloadURL": "2.0 KB"
+            }
+        ]
+    },
+    {
+        "title": "Expenditure on Early Childhood Education",
+        "description": "Statistics on expenditure on ECE, including tables on government expenditure on ECE, and tables on the Consumers Price Index for the fees charged by ECE services.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "early childhood education",
+            "expenditure",
+            "finances"
+        ],
+        "issued": "05-2020",
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/early-childhood-education/finances",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2001/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0004/105628/ECE-Expenditure-2019.xlsx",
+                "title": "Statistics relating to public expenditure on ECE",
+                "description": "Includes total and per funded-child-hour expenditure trends by programme, funding band, type of service, NZ deprivation decile and geographical area, and funding subsidy rates.",
+                "format": "XLSX",
+                "size": "542.3 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/105629/ECE-fees.xls",
+                "title": "ECE Fees",
+                "description": "Statistics Consumers Price Index tables on the average household fees paid for ECE, and the average fees relative earnings.",
+                "format": "XLSX",
+                "size": "43 KB"
+            }
+        ]
+    },
+    {
+        "title": "Staffing in the Early Childhood Education sector",
+        "description": "Statistics on staffing in the ECE sector, including tables on numbers and characteristics of ECE teachers. From 2014 the Early Learning Information (ELI) system was introduced to capture data electronically resulting in some definition changes, including how teaching staff are defined. In ELI the count includes all teaching staff who had contact with children during census week (including relievers and temporary staff). Prior to 2014, the paper-based form RS61 excluded relievers and temporary staff from its count. Therefore numbers are likely to be higher from 2014 and caution needs to be taken when comparing data collected pre and post 2014.\nIn 2019, 90% of licensed ECE services submitted their ECE returns through ELI.  Only Te Kōhanga Reo, casual and hospital-based services submitted paper-based RS61 return.",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "keyword": [
+            "early childhood education",
+            "early learning information",
+            "teaching staff"
+        ],
+        "publisher": {
+            "name": "Ministry of Education"
+        },
+        "contactPoint": {
+            "fn": "Education Data Requests",
+            "hasPhone": "04463 8065",
+            "hasEmail": "requests.edk@education.govt.nz"
+        },
+        "landingPage": "https://www.educationcounts.govt.nz/statistics/early-childhood-education/staffing",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Education",
+        "temporal": "2011/2019",
+        "Sector": "Education",
+        "distribution": [
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/pdf_file/0005/196574/Teaching-staff-at-licensed-ECE-services-in-2019.pdf",
+                "title": "ECE Staffing report 2019",
+                "format": "PDF",
+                "size": "617 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0004/184558/ECE-Teaching-Staff-Pivot-Table-2011-2019.xlsx",
+                "title": "Pivot Table: Number of teaching staff",
+                "description": "Numbers of teaching staff within licensed teacher-led ECE services by type of service, full-time, part time, qualification and registration status.",
+                "format": "XLSX",
+                "size": "867.8 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0011/196571/ECE-Teaching-Staff-Ethnicity-Pivot-Table-2019.xlsx",
+                "title": "Pivot Table: Number of teaching staff by ethnicity",
+                "format": "XLSX",
+                "size": "325 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0007/184561/Status-Teaching-Staff-Time-Series-2011-2019.xlsx",
+                "title": "Number of teaching staff by full-time/part time status",
+                "description": "Time Series Data",
+                "format": "XLSX",
+                "size": "37.4 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0005/184559/Qualification-Teaching-Staff-Time-Series-2011-2019.xlsx",
+                "title": "Number of teaching staff by qualification status",
+                "description": "Time Series Data",
+                "format": "XLSX",
+                "size": "37.4 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0006/184560/Registration-Teaching-Staff-Time-Series-2011-2019.xlsx",
+                "title": "Number of teaching staff by registration status",
+                "format": "XLSX",
+                "size": "36.7 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0008/184562/ECE-Educators-Pivot-Table-2011-2019.xlsx",
+                "title": "Pivot Table: Home-based Educators",
+                "description": "Numbers of educators within home-based ECE services by gender and other regional type variables.",
+                "format": "XLSX",
+                "size": "28.1 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/184563/ECE-Educators-Time-Series-2011-2019.xlsx",
+                "title": "Time Series Data: Home-based Educators",
+                "description": "Numbers of educators within home-based ECE services by gender and other regional type variables.",
+                "format": "XLSX",
+                "size": "27.0 KB"
+            },
+            {
+                "downloadURL": "https://www.educationcounts.govt.nz/__data/assets/excel_doc/0009/196119/Adult-to-child-ratio-2011-2019.xlsx",
+                "title": "Time Series Data: Teacher-child Ratios",
+                "description": "Teacher-to-child ratios in licensed teacher-led ECE services (Education & Care services and Kindergartens). Note: change in methodology between 2013 and 2014.",
+                "format": "XLSX",
+                "size": "243.9 KB"
+            }
+        ]
     }
 ]}
